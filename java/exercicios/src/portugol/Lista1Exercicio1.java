@@ -17,6 +17,6 @@ public class Lista1Exercicio1 {
 		
 		totalDiasFinal = (totalDias +(totalAnos*365) + (totalMeses*30));
 		
-		System.out.printf("Sua idade total em dias é: %s", totalDiasFinal);
+		System.out.printf("Sua idade total em dias é: %d", totalDiasFinal);
 	}
 }

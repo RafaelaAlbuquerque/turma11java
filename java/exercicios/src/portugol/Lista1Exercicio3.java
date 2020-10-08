@@ -37,7 +37,7 @@ public class Lista1Exercicio3 {
 		 minutos = ( (tempoDuracao % 3600) / 60 );
 		 segundos = ( (tempoDuracao % 3600) % 60 );
 		 
-		 System.out.printf("O evento durou %s hora(s), %s minuto(s) e %s segundo(s)",horas,minutos,segundos);
+		 System.out.printf("O evento durou %d hora(s), %d minuto(s) e %d segundo(s)",horas,minutos,segundos);
 			
 		 
 		 

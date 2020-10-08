@@ -37,7 +37,7 @@ public class Lista1Exercicio2 {
 	a=(dias/365);
 	m=(dias%365)/30;
 	d=(dias%365)%30;
-	System.out.printf("Você tem %s anos, %s meses, %s dias",a,m,d);
+	System.out.printf("Você tem %d anos, %d meses, %d dias",a,m,d);
 
 	
 	
