@@ -1,8 +1,8 @@
-package objetos;
+package objeto;
 
 import java.util.Scanner;
 
-import classes.Fornecedor;
+import classe.Fornecedor;
 
 public class testePessoa {
 	public static void main (String[] args) {

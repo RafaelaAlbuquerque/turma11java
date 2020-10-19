@@ -1,8 +1,8 @@
-package objetos;
+package objeto;
 
 import java.util.Scanner;
 
-import classes.ProdutoEletronico;
+import classe.ProdutoEletronico;
 
 public class compraProdutoEletronico {
 	public static void main(String[] args) {
